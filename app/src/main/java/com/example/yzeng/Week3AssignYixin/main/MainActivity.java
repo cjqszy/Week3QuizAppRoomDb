@@ -19,6 +19,8 @@ import com.example.yzeng.Week3AssignYixin.QuizQuestionFragment;
 import com.example.yzeng.Week3AssignYixin.R;
 import com.example.yzeng.Week3AssignYixin.data.TodoNote;
 
+
+//YixinReview mark
 public class MainActivity extends AppCompatActivity implements MainContract.View,ListFragment.OnQuestionClickListener {
 
     TextView quizQuestion;
